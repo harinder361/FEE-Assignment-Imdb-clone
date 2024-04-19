@@ -1,4 +1,4 @@
-Live Site Link = https://saurabh-imdbclone.netlify.app/
+Live Site Link = https://fee-assignment-imdb-clone.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
